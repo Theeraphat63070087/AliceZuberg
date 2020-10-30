@@ -6,7 +6,7 @@
         <h1>Name : Theeraphat Samboonruang</h1>
         <p>Nickname : Matthew</p>
         <img src="Alice.png">
-        <img src="Emilia.png>"
+        <img src="Emilia.png">
         <br>
         <a href="https://www.apple.com/">Favorite Website</a>
 
